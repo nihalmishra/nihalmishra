@@ -1,5 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 I’m Nihal Mishra, a computer science graduate student at the University of Florida. Focussed and passionate software engineer with 2 years of professional experience. I started my career with Mercedes Benz Research and Development India where I worked on building Cabin Infotainment and Human Machine Interface (HMI) software for vehicles.  
 Recently I interned with [Trader Interactive](https://www.linkedin.com/company/traderinteractive/) and helped contribute towards their core backend APIs and developed a standard library from scratch. It enhanced my knowledge of Laravel, Node.js for backend, Vue.js for frontend, AWS CloudWatch, Docker and setting up automated CI/CD pipelines in GitHub. For me, writing maintainable and clean code is a top priority while ensuring scalability. I strive to learn and implement optimized solutions that perform well. 
 
