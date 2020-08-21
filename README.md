@@ -13,7 +13,7 @@ Recently I interned with [Trader Interactive](https://www.linkedin.com/company/t
 - 🏎️ Avid motorsports fan! 
 - 🤖 Interested in emerging technologies in software and hardware (how cool is the Spot robot dog from Boston Dynamics?!!).
 
-## Connect with Me 🤝🏻
+## Lets get in touch! 🤝🏻
 
 [![Gmail Badge](https://img.shields.io/badge/-nihal.mishra95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihal.mishra95@gmail.com)](mailto:nihal.mishra95@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-nihalmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalmishra/)](https://www.linkedin.com/in/nihalmishra/)
