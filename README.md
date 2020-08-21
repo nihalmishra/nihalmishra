@@ -8,7 +8,7 @@ Recently I interned with [Trader Interactive](https://www.linkedin.com/company/t
 - 🌱 I’m currently learning data science, machine learning, neural networks/deep learning, and computer vision techniques.
 - 👯 I’m looking to collaborate on open-source projects in full stack software development and data science projects.
 - 💬 Ask me about getting started with data science, web development, automotive software and python.
-- 📫 How to reach me: [nihal.mishra95@gmail.com](mailto:nihal.mishra95@gmail.com) or LinkedIn inmail.
+- 📫 How to reach me: [nihal.mishra95@gmail.com](mailto:nihal.mishra95@gmail.com) or LinkedIn inMail.
 - ⚡ Hobbies: Playing tennis, soccer, and Catan. 
 - 🏎️ Avid motorsports fan! 
 - 🤖 Interested in emerging technologies in software and hardware (how cool is the Spot robot dog from Boston Dynamics?!!).
