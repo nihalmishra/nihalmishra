@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Nihal Mishra. Thanks for checking out my profile!
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I’m a computer science graduate student at the University of Florida. Focussed and passionate software engineer with 2 years of professional experience. I started my career with Mercedes Benz Research and Development India where I worked on building Cabin Infotainment and Human Machine Interface (HMI) software for vehicles. Recently I interned with Trader Interactive and helped contribute towards their core backend APIs and developed a standard library from scratch. It enhanced my knowledge of Laravel, Node.js for backend, Vue.js for frontend, AWS CloudWatch, Docker and setting up automated CI/CD pipelines in GitHub. For me, writing maintainable and clean code is a top priority while ensuring scalability. I strive to learn and implement optimized solutions that perform well. 
+I’m Nihal Mishra, a computer science graduate student at the University of Florida. Focussed and passionate software engineer with 2 years of professional experience. I started my career with Mercedes Benz Research and Development India where I worked on building Cabin Infotainment and Human Machine Interface (HMI) software for vehicles.  
+Recently I interned with [Trader Interactive](https://www.linkedin.com/company/traderinteractive/) and helped contribute towards their core backend APIs and developed a standard library from scratch. It enhanced my knowledge of Laravel, Node.js for backend, Vue.js for frontend, AWS CloudWatch, Docker and setting up automated CI/CD pipelines in GitHub. For me, writing maintainable and clean code is a top priority while ensuring scalability. I strive to learn and implement optimized solutions that perform well. 
 
 - 🎓 Currently pursuing a Master's in Computer Science, University of Florida.
 - 🔭 I’m currently working on this github README :P
@@ -17,4 +18,5 @@ I’m a computer science graduate student at the University of Florida. Focussed
 [![Gmail Badge](https://img.shields.io/badge/-nihal.mishra95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihal.mishra95@gmail.com)](mailto:nihal.mishra95@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-nihalmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalmishra/)](https://www.linkedin.com/in/nihalmishra/)
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nihalmishra">
-</p>
+
+<p align="center"><b> Thanks for checking out my profile! </p>
