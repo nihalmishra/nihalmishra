@@ -14,7 +14,7 @@ I’m a computer science graduate student at the University of Florida. Focussed
 
 ## Connect with Me 🤝🏻
 
-<p align="center">
-<a href="https://linkedin.com/in/nihalmishra"><img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=linkedin.com/in/nihalmishra&color=Blue?style=flat&logo=linkedin"></a>
+[![Gmail Badge](https://img.shields.io/badge/-nihal.mishra95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihal.mishra95@gmail.com)](mailto:nihal.mishra95@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalmishra/)](https://www.linkedin.com/in/nihalmishra/)
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nihalmishra">
 </p>
