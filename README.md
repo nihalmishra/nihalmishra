@@ -23,6 +23,7 @@ Recently I interned with [Trader Interactive](https://www.linkedin.com/company/t
 
 ## Lets get in touch! 🤝🏻
 
+<a href="https://nihalmishra.github.io/portfolio/"><img alt="Website" src="https://img.shields.io/static/v1?label=Website&message=nihalmishra.github.io/portfolio/&color=Blue?style=flat-square&logo=google-chrome"></a>
 [![Gmail Badge](https://img.shields.io/badge/-nihal.mishra95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihal.mishra95@gmail.com)](mailto:nihal.mishra95@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-nihalmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihalmishra/)](https://www.linkedin.com/in/nihalmishra/)
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nihalmishra">
